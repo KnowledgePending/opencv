@@ -132,7 +132,7 @@ class Builder:
                "-DBUILD_opencv_stitching=OFF",
                "-DBUILD_opencv_java=OFF",
                "-DBUILD_opencv_java_bindings_generator=OFF",
-               "-DBUILD_opencv_js=ON",
+               "-DBUILD_opencv_js=OFF",
                "-DBUILD_opencv_python2=OFF",
                "-DBUILD_opencv_python3=OFF",
                "-DBUILD_opencv_python_bindings_generator=OFF",
